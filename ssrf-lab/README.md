@@ -1,6 +1,6 @@
 # ssrf-labs
 
-SSRF to RCE Live demonstration &amp; playground for AWS by SpiderSilk ;)
+SSRF to RCE Live demonstration &amp; playground for AWS by spiderSilk ;)
 
 ## Requirements
 
