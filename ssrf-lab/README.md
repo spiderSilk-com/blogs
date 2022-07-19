@@ -15,7 +15,6 @@ SSRF to RCE Live demonstration &amp; playground for AWS by SpiderSilk ;)
 
 ```
 ▶ python3 -m pip install -r requirements.txt
-
 ```
 
 ## Running SSRF Application
@@ -23,7 +22,7 @@ SSRF to RCE Live demonstration &amp; playground for AWS by SpiderSilk ;)
 ```
 ▶ git clone https://github.com/spiderSilk-com/blogs
 ▶ cd blogs/ssrf-labs
-▶  python3 -m pip install -r requirements.txt
+▶ python3 -m pip install -r requirements.txt
 ▶ python3 ssrf.py
 ```
 
